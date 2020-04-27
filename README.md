@@ -1,6 +1,4 @@
-# Tool:
-* Python 
-
+# Python
 ## Bank
 ### Stock data compiled and analyzed to determine the span of data in months as well as changes that have occurred as speicifed in the program. 
 
